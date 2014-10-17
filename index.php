@@ -1,7 +1,7 @@
 
 <?php
 include 'functions.php';
-include 'letterToPixArray.php';
+//include 'letterToPixArray.php';
 include 'letterToPixListArray.php';
 
 $randomLetters = FALSE;

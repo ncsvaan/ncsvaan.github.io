@@ -1,0 +1,30 @@
+<?php
+
+$letterToPixList = array(
+            'A'=>array('armadillo','aardvark','ant','anteater'),
+            'B'=>array('bear','beaver','badger','buffalo'),
+            'C'=>array('camel','cat','cow','coyote'),
+            'D'=>array('duck','donkey','deer','dolphin'),
+            'E'=>array('elephant','eagle2','emu'),
+            'F'=>array('flamingo','fox','frog'),
+            'G'=>array('giraffe','goat2','gorilla'),
+            'H'=>array('horse','hippopotamus','hedgehog','hummingbird','hyena'),
+            'I'=>array('ibis','iguana','impala'),
+            'J'=>array('jackal','jaguar','jellyfish'),
+            'K'=>array('kitten','kangaroo','koala','kiwi'),
+            'L'=>array('lion','llama','lobster'),
+            'M'=>array('moose','moth','mouse2'),
+            'N'=>array('newfoundland','newt','numbat'),
+            'O'=>array('ostrich','otter'),
+            'P'=>array('pig','possum','puffin'),
+            'Q'=>array('quail','quetzal','quokka'),
+            'R'=>array('rabbit','raccoon','reindeer','rhinoceros'),
+            'S'=>array('seahorse','seal','sheep','skunk','squirrel','swan'),
+            'T'=>array('tiger','tortoise','turkey','turtle'),
+            'U'=>array('uakari','umbrellabird'),
+            'V'=>array('vervet Monkey','vulture'),
+            'W'=>array('weasel','wolverine','woodpecker'),
+            'X'=>array('xray Tetra'),
+            'Y'=>array('yak'),
+            'Z'=>array('zebra')
+);
